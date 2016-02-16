@@ -13,7 +13,7 @@ namespace people_service.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Fuck", "Yeah!" };
+            return new string[] { "Mark","Cunty", "George!" };
         }
 
         // GET api/values/5
